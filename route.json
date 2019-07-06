@@ -1,0 +1,18 @@
+{
+    "/task/v1/delivery" : "/delivery",
+    "/task/v1/list" : "/list",
+    "/task/v1/upload" : "/upload",
+
+
+    "/login/v1/confirm" : "/confirm",
+    "/logout/v1": "/logout",
+
+    "/register/v1/aop" : "/aop",
+    "/register/v1/checkName" : "/checkName",
+    "/register/v1/checkPhone" : "/checkPhone",
+    "/register/v1/register" : "/register",
+
+
+    "/user/v1/info" : "/info",
+    "/user/v1/info/{user_id}" : "/info/1"
+}

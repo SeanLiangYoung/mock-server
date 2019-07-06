@@ -1,0 +1,9 @@
+{
+	"scripts": {
+		"mock": "json-server --watch db.js --routes route.json --port 9999 --middlewares fetch.js"
+	},
+	"dependencies": {
+		"faker": "^3.1.0",
+		"json-server": "^0.9.4"
+	}
+}
